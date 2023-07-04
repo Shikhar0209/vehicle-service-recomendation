@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shikhar0209
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...projects related to python
+  
+- 🌱 I’m currently learning ...java
+- 💞️ I’m looking to collaborate on ...projects related to java
 - 📫 How to reach me ...contact me on my linked
 
 <!---
